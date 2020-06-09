@@ -49,6 +49,8 @@
    >> python 이용해서 공부했던 자료 <br/>
    *1. https://github.com/wogus3602/HWPtoPDF_Django (HWP -> PDF 변환 프로그램)*
 
+- 'Google Study Jam'을 팀장역할로 스터디를 진행하여 1달간 클라우드에대해 많은걸 배웠습니다. 쿠버네티스, 도커의 활용법과 구축을 해봤습니다.
+
 - `spring-boot`를 사용해서 flutter를 이용한 앱의 서버를 개발해봤습니다.
 
 - aws `EC2 RDS`를 사용해서 flutter앱의 infra를 구축해봤습니다. 
