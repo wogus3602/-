@@ -65,5 +65,6 @@
 ## Contacts
 
 - 이메일 : wogus3602@gmail.com
+- 블로그 : https://blog.naver.com/wogus3602
 - 로켓펀치 : [wogus3602](https://www.rocketpunch.com/@wogus3602)
 
